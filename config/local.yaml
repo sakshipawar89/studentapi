@@ -1,0 +1,4 @@
+env: "development"
+storage_path: "./data"
+http_server:
+  address: ":8080"
